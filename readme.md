@@ -1,0 +1,1 @@
+This is my recipe website for my first assignment with The Odin Project. I will showcase my knowledge of basic HTML commands, such as using elements and attributes.
